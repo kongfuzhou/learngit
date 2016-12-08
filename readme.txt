@@ -4,3 +4,4 @@ modify file
 git学习进度：版本回退已经学完 2016-12-08 00:54:29
  todya learn 工作区和暂存区
 管理修改1
+manage modify 2 `
