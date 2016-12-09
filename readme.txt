@@ -11,3 +11,4 @@ manage modify 2 `
 创建一个新的分支是很快和容易的(HEAD)
 create new branch quick and simple 
 测试非fast forward模式合并分支
+再次测试fast forward模式下合并和 非ff模式的区别
