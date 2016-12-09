@@ -10,4 +10,4 @@ manage modify 2 `
 
 创建一个新的分支是很快和容易的(HEAD)
 create new branch quick and simple 
-
+测试非fast forward模式合并分支
