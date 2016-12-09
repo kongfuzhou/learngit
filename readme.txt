@@ -7,3 +7,4 @@ git学习进度：版本回退已经学完 2016-12-08 00:54:29
 manage modify 2 `
 测试把本地提交的内容推送到远程创库
 创建分支实践
+create new branch is quick and simple
