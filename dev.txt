@@ -1,2 +1,8 @@
+
 测试git stash 命令
 我修好BUG啦
+
+dev,test stash
+
+添加内容，还没添加完，现在要去修bug啦
+
